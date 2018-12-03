@@ -4,7 +4,6 @@ Its a tower-defence, strategy  game
 This is how you add ur changes to GIT:
 Note:Install GitHub desktop in ur computer and GitBash automatically gets installed
 
--right click the folder in which ur project is stored and open it with git bash
 Basic Commands you need to know
 -$git init //Initialize Local Git Repossitary
 -$git add //Add files to index
